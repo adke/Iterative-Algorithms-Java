@@ -1,1 +1,1 @@
-# Iterative-Algorithms-Java
+# Iterative Algorithms Java
