@@ -1,4 +1,6 @@
 //Adish Shah
+//Henry Wise Wood 2021 Semester 2
+//Computer Science 30
 
 public class Searcher {
 	
